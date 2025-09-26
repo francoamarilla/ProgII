@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "Envios.Controllers.EnviosController",
+    "Method": "Get",
+    "RelativePath": "api/Envios/{direccion}/{estado}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "direccion",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "estado",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Envios.Controllers.EnviosController",
+    "Method": "Delete",
+    "RelativePath": "api/Envios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

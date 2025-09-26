@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\segundocuatrimestre\\programacion\\actividad practica 3\\envios\\controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|solutionrelative:controllers\\envioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\segundocuatrimestre\\programacion\\actividad practica 3\\envios\\services\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|solutionrelative:services\\envioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\segundocuatrimestre\\programacion\\actividad practica 3\\envios\\repositories\\enviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|solutionrelative:repositories\\enviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\segundocuatrimestre\\programacion\\actividad practica 3\\envios\\repositories\\ienviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|solutionrelative:repositories\\ienviosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\segundocuatrimestre\\programacion\\actividad practica 3\\envios\\models\\dtos\\enviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|solutionrelative:models\\dtos\\enviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\segundocuatrimestre\\programacion\\actividad practica 3\\envios\\models\\dtos\\detalleenviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|solutionrelative:models\\dtos\\detalleenviodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\segundocuatrimestre\\programacion\\actividad practica 3\\envios\\models\\db_envioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|solutionrelative:models\\db_envioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|c:\\users\\franc\\onedrive\\desktop\\facu\\segundocuatrimestre\\programacion\\actividad practica 3\\envios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE095072-CB99-4DB7-8F65-778F8985E014}|Envios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleEnvioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Models\\DTOS\\DetalleEnvioDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOS\\DetalleEnvioDTO.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Models\\DTOS\\DetalleEnvioDTO.cs",
+              "RelativeToolTip": "Models\\DTOS\\DetalleEnvioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:47:14.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnvioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Models\\DTOS\\EnvioDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOS\\EnvioDTO.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Models\\DTOS\\EnvioDTO.cs",
+              "RelativeToolTip": "Models\\DTOS\\EnvioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:46:15.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnvioService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\services\\EnvioService.cs",
+              "RelativeDocumentMoniker": "services\\EnvioService.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\services\\EnvioService.cs",
+              "RelativeToolTip": "services\\EnvioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:16:08.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnviosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Repositories\\EnviosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EnviosRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Repositories\\EnviosRepository.cs",
+              "RelativeToolTip": "Repositories\\EnviosRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:42:04.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "db_enviosContext.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Models\\db_enviosContext.cs",
+              "RelativeDocumentMoniker": "Models\\db_enviosContext.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Models\\db_enviosContext.cs",
+              "RelativeToolTip": "Models\\db_enviosContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:36:13.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnviosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Repositories\\IEnviosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEnviosRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Repositories\\IEnviosRepository.cs",
+              "RelativeToolTip": "Repositories\\IEnviosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:37:50.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnviosController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Controllers\\EnviosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnviosController.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Controllers\\EnviosController.cs",
+              "RelativeToolTip": "Controllers\\EnviosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:24:33.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\Facu\\Segundocuatrimestre\\Programacion\\Actividad Practica 3\\Envios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:42:24.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
